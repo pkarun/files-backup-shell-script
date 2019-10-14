@@ -1,3 +1,6 @@
+#Server files backup - 25th of Every Month at 2:00am
+#00 02 25 * * /bin/sh /var/www/backups/script/server-backup.sh > /var/log/server-backup.log
+
 #!/bin/bash
 
 THEDATE=`date +%d-%m-%Y-TIME-%H-%M`
