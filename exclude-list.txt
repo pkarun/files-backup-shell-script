@@ -1,0 +1,5 @@
+example.com/downloads/files/*
+example.com/downloads/mysql/*
+example.com/downloads/mysql_dump/*
+example.com/downloads/scripts/*
+example.com/downloads/server/*
